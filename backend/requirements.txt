@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pymongo[srv]
+python-dotenv
+pandas
+numpy
+statsmodels
+scikit-learn
+openpyxl
+python-multipart
+pyjwt
+argon2-cffi
+email-validator
+pytest
+httpx

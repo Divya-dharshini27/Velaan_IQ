@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <path d="M14 36C12 28 14 18 24 10C34 18 36 28 34 36C31 40 27 42 24 42C21 42 17 40 14 36Z" fill="#14432A"/>
+  <path d="M24 10C24 10 26 22 24 42" stroke="#3E9B5F" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Soybean seeds inside pod -->
+  <circle cx="24" cy="20" r="4.5" fill="#D9A441"/>
+  <circle cx="24" cy="30" r="4.5" fill="#D9A441"/>
+  <!-- Leaf accent -->
+  <path d="M24 10C27 6 34 5 38 7C40 12 37 18 32 20C28 18 26 14 24 10Z" fill="#3E9B5F"/>
+</svg>
